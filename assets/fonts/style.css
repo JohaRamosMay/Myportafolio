@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Montserrat-SemiBold';
+   font-display: swap;
+   src: url('Montserrat-SemiBold/font.ttf');
+}
+@font-face {
+   font-family: 'Roboto-Regular';
+   font-display: swap;
+   src: url('Roboto-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'OpenSans-VariableFont_wdth,wght';
+   font-display: swap;
+   src: url('OpenSans-VariableFont_wdth,wght/font.ttf');
+}
